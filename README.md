@@ -1,16 +1,40 @@
-## Hi there 👋
+# sryup
 
-<!--
-**sryup/sryup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Linux Enthusiast**
 
-Here are some ideas to get you started:
+I'm a developer who enjoys understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From low-level programming and operating systems to backend development and self-hosted infrastructure, I enjoy experimenting with technology and building things from the ground up.
+
+---
+
+### About Me
+
+- Currently learning **C** and exploring **Go**
+- Interested in Linux internals and system programming
+- Building and maintaining my own homelab
+- Exploring backend development and open-source software
+
+### Technologies & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,go,python,js,ts" />
+</p>
+
+**Environment & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,docker,git,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sryup&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="60%" />
+</p>
+
+<p align="center">
+  <sub>Build with curiosity. Understand with purpose.</sub>
+</p>
