@@ -32,9 +32,5 @@ From low-level programming and operating systems to backend development and self
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sryup&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" width="60%" />
-</p>
-
-<p align="center">
   <sub>Build with curiosity. Understand with purpose.</sub>
 </p>
